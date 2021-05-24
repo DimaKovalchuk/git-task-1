@@ -5,7 +5,9 @@
 	</head> 
 	<body>
 		<header>
-			
+			<center>
+				<img src="logo.png">
+			</center>
 		</header>
 		<article>
 			<?php 
